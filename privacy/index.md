@@ -1,4 +1,5 @@
-Privacy Policy.
+## Privacy Policy.
+
 Our Privacy Policy describes the information collected by our company through our mobile applications and the use of the information.
 We do not collect any personal information from children with our Apps. 
 
