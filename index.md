@@ -1,5 +1,5 @@
 ## Our Creations
-<a href="multiplier.md">Multiplier</a>
+<a href="/multiplier">Multiplier</a>
 
 ## Privacy
-<a href="privacy.md">Privacy Policy</a>
+<a href="/privacy">Privacy Policy</a>
