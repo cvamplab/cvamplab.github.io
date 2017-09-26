@@ -1,6 +1,7 @@
 ## Privacy Policy.
 
-Our Privacy Policy describes the information collected by our company through our mobile applications and the use of the information.\n
+Our Privacy Policy describes the information collected by our company through our mobile applications and the use of the information.
+
 We do not collect any personal information from our users with our Apps. 
 
 The Application may collect anonymized information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique device ID, your mobile operating system, information about the way you use the Application. This Application does not collect precise information about the location of your mobile device. 
