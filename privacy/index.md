@@ -15,9 +15,7 @@ We may work with analytics services:
 You can stop collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 If the Application marked as "Designed for Family":
- - We comply with the Children's Online Privacy Protection Act.
-
-Our mobile Application comply with the Children's Online Privacy Protection Act ("COPPA"). 
+ - Our mobile Application comply with the Children's Online Privacy Protection Act ("COPPA"). 
 We don’t knowingly collect personal information from children under the age of 13, and if in the event that a user identifies himself or herself as a child under the age of 13 through a support request or through any feedback, we will not collect, store or use, and will delete in a secure manner, any personal information of such user.
 
 Contact Us.
