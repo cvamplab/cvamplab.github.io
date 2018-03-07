@@ -11,4 +11,4 @@ In gaming mode "Race" the player is offered examples of multiplication tables wi
 
 Play! Multiply! Compare your knowledge of the multiplication table with your friends!
 
-https://play.google.com/store/apps/details?id=com.cvamp.multiplier
+<a href="https://play.google.com/store/apps/details?id=com.cvamp.multiplier">Multiplier</a>
