@@ -19,4 +19,4 @@ Features:
 • Does not require any permission
 • No Ads
 
-https://play.google.com/store/apps/details?id=com.cvamp.passwordshaker
+<a href="https://play.google.com/store/apps/details?id=com.cvamp.passwordshaker">Password Shaker</a>
