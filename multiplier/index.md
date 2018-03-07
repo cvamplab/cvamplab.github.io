@@ -10,3 +10,5 @@ In gaming mode "Practice" the player is offered examples of multiplication table
 In gaming mode "Race" the player is offered examples of multiplication tables with choice answers. With the rapid selecting the right answers bonus factor (or coefficient) is charged to the points. The race is stopped at the end of one minute and the player is given the statistics of the race. 
 
 Play! Multiply! Compare your knowledge of the multiplication table with your friends!
+
+https://play.google.com/store/apps/details?id=com.cvamp.multiplier
