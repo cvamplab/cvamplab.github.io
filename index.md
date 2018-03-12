@@ -1,3 +1,4 @@
+{% include analytics.html %}
 ## Our Creations
 <a href="/multiplier">Multiplier</a>
 
