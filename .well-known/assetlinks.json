@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cvamp.multiplier.base",
+    "sha256_cert_fingerprints":
+    ["FE:45:3A:5F:EA:83:55:F8:26:57:75:DA:90:BD:EF:5B:36:BE:92:20:69:61:BA:5A:39:31:ED:78:1C:4C:E4:19"]
+  }
+}]
