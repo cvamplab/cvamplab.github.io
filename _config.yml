@@ -4,3 +4,5 @@ description: Growing up right now!
 
 # Google Analytics
 google_analytics: UA-61791095-4
+
+include: [".well-known"]
