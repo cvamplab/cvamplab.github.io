@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["3B:C9:6D:FD:D3:58:73:1B:0A:7C:34:6F:20:99:9A:26:D3:7A:AE:31:C6:80:03:83:10:96:C1:AF:76:60:60:F9"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cvamp.passwordshaker.base",
+    "sha256_cert_fingerprints":
+    ["FE:45:3A:5F:EA:83:55:F8:26:57:75:DA:90:BD:EF:5B:36:BE:92:20:69:61:BA:5A:39:31:ED:78:1C:4C:E4:19"]
+  }
 }]
