@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.cvamp.passwordshaker.base",
+    "package_name": "com.cvamp.passwordshaker",
     "sha256_cert_fingerprints":
     ["E1:9D:94:2A:49:97:3C:3F:4E:19:41:91:E2:93:ED:46:77:44:B4:F4:C4:A6:A0:20:D9:86:63:6C:F1:30:63:9F"]
   }
